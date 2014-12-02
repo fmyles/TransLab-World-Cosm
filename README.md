@@ -1,4 +1,4 @@
-CosmAMBI-TransLab
+World Template using COSM-TransLab
 =================
 
 cosm template with 16ch ambi and 3 motiv trackers and motiv file
